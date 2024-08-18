@@ -22,7 +22,7 @@ body{
     display: grid;
     grid-template-rows: 1.7fr 2.5fr 1fr;
     grid-template-columns:1fr 5fr;
-    width: 98vw;
+    width: 96vw;
     height: 100vh;
     /* justify-items: start;
     align-items:start;  */
@@ -298,7 +298,7 @@ translateZ(1rem);
 transform-origin: 50% 100%;
 transform-style: preserve-3d;
 box-shadow: 1rem 1rem 1.3rem rgba(18, 16, 16, 0.332);
-transition: 1s ease transform;
+transition: 1.5s ease transform;
 
 } 
 
